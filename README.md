@@ -1,6 +1,10 @@
 # Module 12 Report Template
 
+## Code is located in Credit_Risk folder(notebook name:credit_risk_classification.ipynb)
+
 ## Overview of the Analysis
+
+##
 
 The purpose of this analysis is to develop a machine learning model to assess the credit risk of borrowers based on historical lending data. By training a logistic regression model , our goal is to predict whether a loan will be high-risk (1) or healthy (0).
 
